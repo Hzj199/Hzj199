@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 竞赛经历
-- 2023 科大讯飞开发者大赛——遥感图像倾斜舰船小目标检测挑战赛 Rank1
+- 2023 科大讯飞开发者大赛——遥感图像倾斜舰船小目标检测挑战赛 **Rank1**
 - 2023 科大讯飞开发者大赛——基于图像识别算法的无人船障碍物检测挑战赛 **Rank1**
 - IJCAI 2023 Workshop Challenge Track II：Rotated Detection ****Rank2****
 - 2023 IEEE GRSS Data Fusion Contest Track 1 **Rank3**
