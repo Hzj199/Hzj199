@@ -8,7 +8,6 @@
 - IJCAI 2023 Workshop Challenge Track II：Rotated Detection ****Rank2****
 - 2023 IEEE GRSS Data Fusion Contest Track 1 **Rank3**
 - 2022"航天宏图杯”遥感影像智能处理算法大赛——国际赛道：遥感影像语义分割 **Rank1**
-- 2022 科大讯飞开发者大赛——辣椒病虫害图像识别挑战赛 **Rank2**
 - 天池——ICME2022 安全AI挑战者计划第九期：小样本商标检测挑战赛 **Rank1**
 - 天池——CVPR2022 Biometrics Workshop - Pet Biometric Challenge **Rank3**
 - 2022 百度网盘AI大赛-图像处理挑战赛：文档检测优化赛 **Rank3**
